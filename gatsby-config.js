@@ -9,15 +9,15 @@
  */
 module.exports = {
 siteMetadata: {
-    title: `bpeldi2oerkd8の開発日誌`,
+    title: `iam774.com`,
     author: {
-      name: `bpeldi2oerkd8`,
-      summary: `Web開発など興味がある分野についてブログを書いています。PHP, JavaScript, TypeScript, Java, Python使いです。`,
+      name: `774`,
+      summary: `テストブログ`,
     },
-    description: `Web開発に関する記事、興味のある分野の記事を不定期で更新中。開発するうえでつまづいたこと、興味のある分野でわからなかったことについてまとめて記事にする予定です。`,
-    siteUrl: `https://bpeldi2oerkd8.com/`,
+    description: `テストブログ`,
+    siteUrl: `https://iam774.com/`,
     social: {
-      twitter: `bpeldi2oerkd8`,
+      twitter: `_bee1984_`,
     },
   },  plugins: [
     `gatsby-plugin-image`,
