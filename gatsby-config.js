@@ -8,19 +8,18 @@
  * @type {import('gatsby').GatsbyConfig}
  */
 module.exports = {
-  siteMetadata: {
-    title: `Gatsby Starter Blog`,
+siteMetadata: {
+    title: `bpeldi2oerkd8の開発日誌`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `bpeldi2oerkd8`,
+      summary: `Web開発など興味がある分野についてブログを書いています。PHP, JavaScript, TypeScript, Java, Python使いです。`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `Web開発に関する記事、興味のある分野の記事を不定期で更新中。開発するうえでつまづいたこと、興味のある分野でわからなかったことについてまとめて記事にする予定です。`,
+    siteUrl: `https://bpeldi2oerkd8.com/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `bpeldi2oerkd8`,
     },
-  },
-  plugins: [
+  },  plugins: [
     `gatsby-plugin-image`,
     {
       resolve: `gatsby-source-filesystem`,
