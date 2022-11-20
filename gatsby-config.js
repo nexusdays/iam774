@@ -15,7 +15,7 @@ siteMetadata: {
       summary: `テストブログ`,
     },
     description: `テストブログ`,
-    siteUrl: `https://iam774.com/`,
+    siteUrl: `https://blog.iam774.com/`,
     social: {
       twitter: `_bee1984_`,
     },
